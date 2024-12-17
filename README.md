@@ -1,4 +1,4 @@
-   welcome to my Account https://github.com/josphat02/josphat02/blob/main/Josphat.M.Murithi.png?raw=true
+ ![Welcome Banner](https://github.com/josphat02/josphat02/blob/main/Josphat.M.Murithi.png?raw=true)
 
 ## Hi there 👋, I'm Josphat Murithi! 🚀  
 
